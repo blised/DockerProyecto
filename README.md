@@ -128,12 +128,15 @@ docker restart prueba1-moodle-1
 1. Inicia sesión con el usuario administrador. 
 ![Inicio de Moodle](img/img1.png)
 ![Inicio de Moodle2](img/img2.png)
+
 2. Desde el panel principal, selecciona **“My Courses” → “Create Course”**.  
 ![My Courses](img/img4.png)
 ![Courses Form](img/img5.png)
+
 3. Completa los datos del curso y guarda.
 ![Courses Save](img/img6.png)
 ![Courses Display](img/img7.png)
+
 ---
 
 ## 👥 5. Gestión de usuarios y roles
@@ -142,6 +145,7 @@ docker restart prueba1-moodle-1
 https://docs.moodle.org/400/en/Admin_quick_guide
 1. Ir a **Site administration → Users → Add a new user**  
 ![Users](img/img8.png)
+
 2. Completar los datos y guardar.
 ![Users Form](img/img9.png)
 ![Users Display](img/img10.png)
@@ -149,6 +153,7 @@ https://docs.moodle.org/400/en/Admin_quick_guide
 ### 🧩 Asignar roles
 1. Entra a **Home → Participants**  
 ![Users Display Role](img/img11.png)
+
 2. Edita el usuario y asigna un rol (*Teacher*, *Student*, etc.)
 ![Display Roles](img/img12.png)
 
@@ -158,10 +163,13 @@ https://docs.moodle.org/400/en/Admin_quick_guide
 
 1. Accede al curso desde **My Courses**.  
 ![My Course](img/img13.png)
+
 2. Ve a **Participants → Enrol users**.  
 ![My Course](img/img14.png)
+
 3. Selecciona los usuarios y define su rol.  
 ![My Course](img/img15.png)
+
 4. Guarda con **Enrol users**.
 ![My Course](img/img16.png)
 
