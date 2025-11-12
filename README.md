@@ -157,6 +157,7 @@ https://docs.moodle.org/400/en/Admin_quick_guide
 ![Users Display Role](img/img11.png)
 
 2. Edita el usuario y asigna un rol (*Teacher*, *Student*, etc.)
+
 ![Display Roles](img/img12.png)
 
 ---
@@ -173,6 +174,7 @@ https://docs.moodle.org/400/en/Admin_quick_guide
 ![My Course](img/img15.png)
 
 4. Guarda con **Enrol users**.
+
 ![My Course](img/img16.png)
 
 ---
