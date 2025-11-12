@@ -3,6 +3,25 @@
 Implementación de **Moodle** (plataforma de aprendizaje en línea) usando **Docker Compose** con base de datos **MariaDB**.
 
 ---
+## Importante
+Si se quisiera subir el docker a docker hub, se tendria que descargar el moodle y el maribaDB de forma local en tu maquina,
+y crear un docker compose referenciando a tu usuario y alo que tienes en tu maquina local:
+```yaml
+  mariadb:
+    image: TU_USUARIO/mariadb:latest
+  EL RESTO DE LA CONFIGURACION
+  moodle:
+    image: TU_USUARIO/moodle:4.3-custom
+```
+Pero como en mi caso lo saque del usuario bitnami para el mariaDB(bitnami/mariadb) y el moodle (docker.io/bitnamilegacy/moodle),
+simplemente clona el github y le das up
+```bash
+git clone https://github.com/blised/DockerProyecto.git prueba1
+cd prueba 1
+docker build up -d
+```
+
+---
 
 ## 📁 Estructura del proyecto
 
