@@ -17,7 +17,7 @@ Pero como en mi caso lo saque del usuario bitnami para el mariaDB(bitnami/mariad
 simplemente clona el github y le das up
 ```bash
 git clone https://github.com/blised/DockerProyecto.git prueba1
-cd prueba 1
+cd prueba1/
 docker build up -d
 ```
 
