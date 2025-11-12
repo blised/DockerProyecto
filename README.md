@@ -147,7 +147,9 @@ https://docs.moodle.org/400/en/Admin_quick_guide
 ![Users](img/img8.png)
 
 2. Completar los datos y guardar.
+
 ![Users Form](img/img9.png)
+
 ![Users Display](img/img10.png)
 
 ### 🧩 Asignar roles
